@@ -5,13 +5,13 @@ import DisplayImages from "./DisplayImages";
 import axios from "axios";
 import "../index.css";
 
-const Home = () => {
+const MainFrame = () => {
 	const [images, setImages] = useState();
 	const [show, setShow] = useState();
 
 	const handleClick = (e) => {
 		setShow(e);
-
+	};
 
 	useEffect(() => {
 		const getData = async () => {
@@ -44,4 +44,4 @@ const Home = () => {
 	);
 };
 
-export default Home;
+export default MainFrame;
