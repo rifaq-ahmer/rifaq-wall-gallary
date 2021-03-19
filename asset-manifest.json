@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rifaq-wall-gallary/static/css/main.45d902aa.chunk.css",
+    "main.js": "/rifaq-wall-gallary/static/js/main.857608cf.chunk.js",
+    "main.js.map": "/rifaq-wall-gallary/static/js/main.857608cf.chunk.js.map",
+    "runtime-main.js": "/rifaq-wall-gallary/static/js/runtime-main.1dec5053.js",
+    "runtime-main.js.map": "/rifaq-wall-gallary/static/js/runtime-main.1dec5053.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/rifaq-wall-gallary/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7037f913.chunk.js": "/rifaq-wall-gallary/static/js/2.7037f913.chunk.js",
+    "static/js/2.7037f913.chunk.js.map": "/rifaq-wall-gallary/static/js/2.7037f913.chunk.js.map",
+    "index.html": "/rifaq-wall-gallary/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/rifaq-wall-gallary/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.45d902aa.chunk.css.map": "/rifaq-wall-gallary/static/css/main.45d902aa.chunk.css.map",
+    "static/js/2.7037f913.chunk.js.LICENSE.txt": "/rifaq-wall-gallary/static/js/2.7037f913.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dec5053.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7037f913.chunk.js",
+    "static/css/main.45d902aa.chunk.css",
+    "static/js/main.857608cf.chunk.js"
+  ]
+}
