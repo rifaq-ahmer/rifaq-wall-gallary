@@ -16,7 +16,7 @@ const MainFrame = () => {
 	useEffect(() => {
 		const getData = async () => {
 			const { data: Images } = await axios.get(
-				"http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0"
+				"https://www.mocky.io/v2/5ecb5c353000008f00ddd5a0/"
 			);
 			setImages(Images);
 			console.log(Images);
